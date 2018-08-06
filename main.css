@@ -86,3 +86,36 @@
   border: 1px solid #e8e8e8;
   padding: 20px;
 }
+
+.search-bar {
+  background-color: #F1F5FA;
+  padding: 10px;
+  margin-left: 15px;
+}
+
+.search-filter {
+  background-color: #F1F5FA;
+  margin: 10px 0;
+}
+
+.form-check-label {
+  width: 100%;
+}
+
+.badge-info {
+  float: right;
+  margin-right: 20px;
+}
+
+.search-results .card {
+  margin-top: 20px;
+  background-color: #F1F5FA;
+}
+
+.matches {
+  margin-top: 20px;
+}
+
+.search-cat {
+  padding-left: 15px;
+}
