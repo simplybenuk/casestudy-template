@@ -119,3 +119,35 @@
 .search-cat {
   padding-left: 15px;
 }
+
+.content-section {
+  background-color: #f8f8f8;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.case-study-cms label {
+  width: 100%;
+}
+.case-study-cms textarea {
+  width: 100%;
+}
+.case-study-cms input {
+  width: 100%;
+}
+.case-study-cms select {
+  width: 300px;
+}
+
+.case-study-cms .exclude input {
+  width: 300px;
+}
+.case-study-cms .exclude label {
+  width: 100px;
+}
+
+.part {
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+}
